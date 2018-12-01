@@ -1,3 +1,9 @@
+**WARNING** | 
+------------ |
+Changing this file won't affect the website. |
+Use it to discuss/request changes to site's text.  | 
+
+
 # fitness.agnikai.io
 The Ultimate Fitness Framework
 
