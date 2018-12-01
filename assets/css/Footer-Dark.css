@@ -131,3 +131,26 @@
   margin-left: 16px;
 }
 
+.smallbrandlogo {
+  background-image: url("/assets/img/smallagnilogo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 120px;
+  height: 40px;
+}
+
+.agnibigheader {
+  background-image: url("/assets/img/morefirefixed.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.agnibigheaderlogo {
+  background-image: url("/assets/img/agniwhitebig.png");
+  background-position: 50% 0%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 120px;
+  margin-bottom: 8px;"
+}
