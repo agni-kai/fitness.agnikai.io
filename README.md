@@ -7,12 +7,12 @@ Use it to discuss/request changes to site's text.  |
 # fitness.agnikai.io
 The Ultimate Fitness Framework
 
-## THE GOAL
+### THE GOAL
 **Primary**: Fast and Safe weight loss and subsequent athletic weight maintenance.
 
 **Secondary**: muscle loss prevention and increase in strength & agility.
 
-## THE METHOD
+### THE METHOD
 TLDR: IM + Keto + Deficit + Strength Training (linked in footer).
 
 You don't need to buy anything. 
