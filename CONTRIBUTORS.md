@@ -1,7 +1,7 @@
 "Agni Kai Fitness Framework" - Contributors
 ========
 
-* **[Stepan Generalov](https://github.com/psineur)** - OG
+* **[@psineur](https://github.com/psineur)** - OG
 
 * **[u/txstgunner](https://www.reddit.com/user/txstgunner)**
   * exercise names
